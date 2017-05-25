@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pl">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Darmowe warsztaty z programowania HTML i CSS.">
+    <title>Excercise 3</title>
+</head>
+<body>
+	<p>Opublikowano przez: <em>Kasia Niesamowita</em>, 20 kwietnia 2016</p>	
+	<h1>The Awwwesomes podbijają świat!</h1>
+	<img src="images/screen.jpg">
+	<p>Warsztaty ruszyły pełną parą! Grupa 20 zdolnych uczestników zabrała się do kodowania z godnym podziwu zapałem.</p>
+	<p>Mentorzy mieli trudne zadanie, ponieważ padło bardzo dużo ciekawych pytań. Nasi uczestnicy są naprawdę <em>awwwesome</em>!</p>
+	<h1>Najpierw semantyczny HTML, potem estetyczny CSS</h1>
+	<p>Naukę zaczęliśmy od HTML, który jest absolutną podstawą dla każdego kodera stron internetowych. <br> Nie obejdzie się jednak bez zapoznania z CSS, dzięki któremu każdy może upiększyć swoją stronę <br> jak tylko sobie wymarzy!</p>
+	<p>Zostaw swój komentarz:</p>
+<form name="Zostaw swój komentarz:">
+ 	<label for="emailData">Twój e-mail:</label>
+	<input type="email" id="emailData">
+	<label for="nameData">Twoje imię:</label>
+	<input type="name" id="nameData">
+	<label for="commentData">Twój komentarz:</label>
+	<input type="comment" id="commentData">
+	<button>Prześlij</button>
+</form>
+</body>
+</html>
